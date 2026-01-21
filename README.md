@@ -46,7 +46,7 @@ To get the environment ready, follow these steps:
 
 ## ⚖️ Scheduling Rules
 
-This is rather complex and I **Vibe-coded** most of this section because making Google OR-Tools rules broke my brain. Here is what I intended/understand from the code:
+This is rather complex and I vibe-coded most of this section because making Google OR-Tools rules broke my brain. Here is what I intended/understand from the code:
 
 ### 🔒 Hard Rules
 * **Single Shift:** Each person can only work on one camera a shift.
